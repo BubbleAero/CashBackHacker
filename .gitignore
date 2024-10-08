@@ -42,4 +42,9 @@ bin/
 .DS_Store
 .idea/
 
+ build.gradle.kts
+        gradle/
+        gradlew
+        gradlew.bat
+        settings.gradle.kts
 
